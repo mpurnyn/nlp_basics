@@ -25,37 +25,3 @@ same as the previous step
 5. fit on sentences
 6. convert to sequences
 7. pad sequences
-
-### Training Neural Network
-
-Question 1
-
-What is the name of the TensorFlow library containing common data that you can use to train and test neural networks?
-
-Question 2
-
-How many reviews are there in the IMDB dataset and how are they split?
-
-Question 3
-
-How are the labels for the IMDB dataset encoded?
-
-Question 4
-
-What is the purpose of the embedding dimension?
-
-Question 5
-
-When tokenizing a corpus, what does the num_words=n parameter do?
-
-Question 6
-
-To use word embeddings in TensorFlow, in a sequential layer, what is the name of the class?
-
-Question 7
-
-IMDB Reviews are either positive or negative. What type of loss function should be used in this scenario?
-
-Question 8
-
-When using IMDB Sub Words dataset, our results in classification were poor. Why?
