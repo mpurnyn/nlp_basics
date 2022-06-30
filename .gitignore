@@ -3,6 +3,7 @@ api_secrets.py
 *.wav
 *.mp3
 *.txt
+*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
