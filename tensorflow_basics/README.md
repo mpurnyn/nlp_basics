@@ -1,12 +1,14 @@
 # Introduction to Tensorflow
 
+## Defining arrays in numpy
+- define an array, but make sure to define the type of data in the array as well
+    - x = np.array([-1.0,  0.0, 1.0, 2.0, 3.0, 4.0], dtype=float)
 
 ## Important Terms
 **Tensorflow**
 - a library for Machine Learning
 **Keras**
 - an api in tensorflow
-
 **Neural Networks**
 **Layers**
 - Dense(units=1, input_shape=[1])
