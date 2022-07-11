@@ -9,10 +9,13 @@ Individual Letters could be encoded with ASCII, but trying to make sense of the 
 **Embedding Dimension**
 - the number of dimensions for the vector representing the word encoding
 
-### Input Data preperation
+### Input Data Preproccessing
 1. generate tokens for all words in the input data
 2. create token for unknown tokens for future data
 3. generate sequences of tokens for every input sentence
+4. Remove stop words like "and, is, a, on, etc" or punctuation (depending on particular use case)
+5. Convert each word to its stem (called stemming)
+6. Convert All words to lower case
 4. pad sequences so they are the same length for input into a neural network
 
 
