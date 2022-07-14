@@ -10,3 +10,10 @@ The following libraries are useful to import in NLP Projects
     from tensorflow.keras.preprocessing.sequence import pad_sequences
     import matplotlib.pyplot as plt
     from scipy.stats import linregress
+
+
+## NLTK
+- Natural Language Tookity
+http://www.nltk.org/howto/twitter.html
+`import nltk`
+
