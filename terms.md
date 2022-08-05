@@ -1,4 +1,9 @@
+
+# NLP/NLU Terms
+
 **Vocabulary/Corpus**
 - the collection of text you use to build a model in NLP
-# Feature Extraction
+**Feature Extraction**
 - trying to create features
+**Vector Spaces**
+****
